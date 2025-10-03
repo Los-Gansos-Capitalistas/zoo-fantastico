@@ -1,0 +1,6 @@
+com\zoo\zoofantastico\service\ZoneServiceTest.class
+com\zoo\zoofantastico\controller\ZoneControllerTest.class
+com\zoo\zoofantastico\ZooFantasticoApplicationTests.class
+com\zoo\zoofantastico\controller\CreatureControllerTest.class
+com\zoo\zoofantastico\service\CreatureServiceTest.class
+com\zoo\zoofantastico\validation\CreatureRequestValidationTest.class
